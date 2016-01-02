@@ -1,0 +1,16 @@
+{
+  "name": "rozsuvky",
+  "version": "1.0.0",
+  "description": "A puzzle game made for my kids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no tests specified yet\" && exit /b 1\""
+  },
+  "keywords": [
+    "puzzle",
+    "game",
+    "rozsuvky"
+  ],
+  "author": "atriplex",
+  "license": "ISC"
+}
